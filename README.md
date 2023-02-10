@@ -55,6 +55,7 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 
 <h2 id="dependencia">O que precisa para rodar o projeto? 📈</h2>
 
+- Toda vez que for rodar o projeto na linha de comando digite "node nomeDoArquivo", exemplo: "node app.js".
 - Precisa instalar o Node.js, para instalar clique   <a href="https://nodejs.org/en/">AQUI</a>. <br>
 - Para rodar o projeto na linha de comando, favor iniciar o comando " npm i prompt-sync ", para mais informações clique <a href="https://www.npmjs.com/package/prompt-sync">AQUI</a>. <br><br>
 
